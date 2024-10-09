@@ -6,22 +6,20 @@
 <h3 align="center">A Passionate Control Engineer Who Also ❤️ Programming</h3>
 
 <!-- Quick Summary About My recent state -->
-<p><li>🔭 I’m currently working on <strong>Building a Quoridor game</a></strong></li></p>
+<p><li>🔭 I’m currently working on a <strong>Soft Robot project</a></strong></li></p>
 
-<p><li>🌱 I’m currently learning <strong>Web Development and React</strong></li></p>
+<p><li>🌱 I’m currently learning <strong>Advanced DeepLearning Methods</strong></li></p>
 
-<p><li>💬 Ask me about <strong>Solidity, C++ and Python<strong></p>
+<p><li>💬 Ask me about Soft Robots, Deep Learning and Control Theory </p>
 
 <!-- My Contact Info -->
 <h3 align="left">You can reach me via:</h3>
 
 <div align="left">
 <!-- Gmail -->
-<a href="mailto:1380hamidi@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: 1380hamidi@gmail.com" width="40" height="40"/></a>
-<!-- Discord -->
-<a href="https://discord.com/users/986911034797330442" target="_blank"><img align="center" src="./images/Contact-via-images/Discord.png" alt="Discord@smai#6068" width="40" height="40" /></a>
+<a href="mailto:azadnikamirreza@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: azadnikamirreza@gmail.com" width="40" height="40"/></a>
 <!-- Telegram -->
-<a href="https://t.me/rsmhamidi" target="_blank"><img align="center" src="./images/Contact-via-images/Telegram.svg" alt="Telegram@rsmhamidi" width="40" height="40"/></a>
+<a href="https://t.me/RAzadnik" target="_blank"><img align="center" src="./images/Contact-via-images/Telegram.svg" alt="Telegram@RAzadnik" width="40" height="40"/></a>
 </div>
 
 <!-- Tools and Languages -->
