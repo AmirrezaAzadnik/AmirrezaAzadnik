@@ -8,7 +8,7 @@
 <!-- Quick Summary About My recent state -->
 <p><li>🔭 I’m currently working on a <strong>Soft Robot project</a></strong></li></p>
 
-<p><li>🌱 I’m currently learning <strong>Advanced DeepLearning Methods</strong></li></p>
+<p><li>🌱 I’m currently learning <strong>Advanced DeepLearning & Data-Driven Control Methods</strong></li></p>
 
 <p><li>💬 Ask me about Soft Robots, Deep Learning and Control Theory </p>
 
