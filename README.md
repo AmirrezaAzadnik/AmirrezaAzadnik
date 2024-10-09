@@ -39,6 +39,9 @@
 <a href="https://git-scm.com/" target="_blank"><img src="./Icons/Git.png" alt="Git" width="40" height="40"/></a>
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank"><img src="./Icons/Docker.png" alt="Docker" width="40" height="40"/></a>
+<!-- Conda -->
+<a href="https://www.anaconda.org/" target="_blank"><img src="./Icons/Conda.png" alt="Conda" width="40" height="40"/></a>
+
 
 
 <!-- Github Stats -->
