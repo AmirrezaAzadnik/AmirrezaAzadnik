@@ -17,9 +17,9 @@
 
 <div align="left">
 <!-- Gmail -->
-<a href="mailto:azadnikamirreza@gmail.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: azadnikamirreza@gmail.com" width="40" height="40"/></a>
+<a href="mailto:azadnikamirreza@gmail.com" target="_blank"><img align="center" src="./Icons/Gmail.png" alt="Gmail: azadnikamirreza@gmail.com" width="40" height="40"/></a>
 <!-- Telegram -->
-<a href="https://t.me/RAzadnik" target="_blank"><img align="center" src="./images/Contact-via-images/Telegram.svg" alt="Telegram@RAzadnik" width="40" height="40"/></a>
+<a href="https://t.me/RAzadnik" target="_blank"><img align="center" src="./Icons/Telegram.svg" alt="Telegram@RAzadnik" width="40" height="40"/></a>
 </div>
 
 <!-- Tools and Languages -->
@@ -27,18 +27,18 @@
 <div align="left">
 <!-- OS -->
 <!-- linux -->
-<a href="https://www.linux.org/" target="_blank"><img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="./Icons/Linux.svg" alt="Linux" width="40" height="40"/></a>
 <!-- Languages -->
 <!-- python -->
-<a href="https://www.python.org" target="_blank"><img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="./Icons/Python.png" alt="Python" width="40" height="40"/></a>
 <!-- CPP -->
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./images/Languages-Tools-images/CPP.png" alt="CPP" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./Icons/CPP.png" alt="CPP" width="40" height="40"/></a>
 <!-- Matalb -->
-<a href="https://www.mathworks.com/" target="_blank"><img src="./images/Languages-Tools-images/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="./Icons/Matlab.png" alt="MATLAB" width="40" height="40"/></a>
 <!-- Git -->
-<a href="https://git-scm.com/" target="_blank"><img src="./images/Languages-Tools-images/Git.png" alt="Git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./Icons/Git.png" alt="Git" width="40" height="40"/></a>
 <!-- Docker -->
-<a href="https://www.docker.com/" target="_blank"><img src="./images/Languages-Tools-images/Docker.png" alt="Docker" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="./Icons/Docker.png" alt="Docker" width="40" height="40"/></a>
 
 
 <!-- Github Stats -->
