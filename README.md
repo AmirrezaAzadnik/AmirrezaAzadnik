@@ -43,6 +43,8 @@
 <a href="https://www.anaconda.org/" target="_blank"><img src="./Icons/Conda.png" alt="Conda" width="40" height="40"/></a>
 <!-- STM32 -->
 <a href="https://www.st.com/" target="_blank"><img src="./Icons/stm32.png" alt="STM32" width="40" height="40"/></a>
+<!-- TF -->
+<a href="https://www.tensorflow.org/" target="_blank"><img src="./Icons/tf.png" alt="Tensorflow" width="40" height="40"/></a>
 
 
 
